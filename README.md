@@ -2,5 +2,5 @@ Web app, that makes an alignment of two strings by adding gap symbols (-) to eac
 
 You can visit deployed [app](http://SofyaPovarova.github.io/react-sequence-alignment). 
 
-To launch three tests, you can run ### `npm test` 
+To launch three tests, you can run `npm test` 
  
