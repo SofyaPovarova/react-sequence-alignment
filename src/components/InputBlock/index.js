@@ -28,9 +28,10 @@ const InputBlock= (props) => {
                 />
                 <button
                     data-testid="processBtn"
+                    className="process-button"
                     type="button"
                     onClick={props.changeStatus}
-                >✅</button>
+                ></button>
             </form>
         </div>
     )

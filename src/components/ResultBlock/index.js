@@ -13,7 +13,7 @@ const ResultBlock = props => {
         const n = seq2.length;
         const l = n + m;
 
-        let dp = Array(l+ 1).fill(0).map(x => Array(l + 1).fill(0));
+        let dp = Array(l+ 1).fill(0).map(() => Array(l + 1).fill(0));
         for (let i = 0; i <= l; i++) {
             dp[i][0] = i * gapPenalty;
             dp[0][i] = i * gapPenalty;
@@ -134,7 +134,7 @@ const ResultBlock = props => {
         return (
             <div className="result-block">
                 {renderColoredSeq(alignSequences())}
-                <button className="reset" name="reset" value="reset" onClick={props.reset}>reset</button>
+                <button className="reset" name="reset" value="reset" onClick={props.reset}></button>
             </div>
         )
     };
