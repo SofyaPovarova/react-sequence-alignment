@@ -1,0 +1,46 @@
+.alignment-app {
+  width: 80%;
+  max-width: 700px;
+  height: auto;
+
+  margin: 100px auto 0;
+
+  background-image: url("img/dna.png");
+  background-size: 30%;
+  background-repeat: repeat-y;
+
+  font-family: 'Montserrat', sans-serif;
+  color: #375980;
+  font-size: 25px;
+}
+
+
+button {
+  width: fit-content;
+
+  margin: 20px;
+  padding:  5px 5px;
+  border: #006a00 2px solid;
+  border-radius: 30px;
+
+  background: green;
+
+  color: white;
+
+  cursor: pointer;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+button:hover {
+  opacity: 80%;
+}
+
+button:focus {
+  outline: none;
+}
+
+
+
+

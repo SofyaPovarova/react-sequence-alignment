@@ -1,0 +1,43 @@
+.input-block {
+    margin: auto;
+    text-align: right;
+
+    border: #375980 solid 2px;
+    border-radius: 10px 10px 0 0;
+}
+
+.input-title {
+    margin-left: 30%;
+    width: fit-content;
+}
+
+.input-seq {
+    display: block;
+    width: 80%;
+    max-width: 400px;
+
+    margin: 40px 40px 0 auto;
+    padding: 5px 13px;
+
+    border: none;
+    border-bottom: #375980 solid 2px;
+    border-radius: 10px 10px 0 0;
+
+    font-size: 20px;
+}
+
+.input-seq:focus {
+    outline:none;
+}
+
+.input-seq:disabled {
+    background-color: white;
+}
+
+button {
+    margin-right: 40px;
+}
+
+
+
+
