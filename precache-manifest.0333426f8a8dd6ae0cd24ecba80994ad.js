@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01a7c87d15d816f54f6ca17ca63070d2",
+    "revision": "09e4f5cccfe5bfd6fed8adaab4b51cbb",
     "url": "/react-sequence-alignment/index.html"
   },
   {
-    "revision": "b6811a7f847de9da057b",
-    "url": "/react-sequence-alignment/static/css/main.4a5f322d.chunk.css"
+    "revision": "d1e97e8bfe1fc3118927",
+    "url": "/react-sequence-alignment/static/css/main.76670972.chunk.css"
   },
   {
     "revision": "1f02a3c7ba3b3dbec55d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-sequence-alignment/static/js/2.6d748c9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b6811a7f847de9da057b",
+    "revision": "d1e97e8bfe1fc3118927",
     "url": "/react-sequence-alignment/static/js/main.f73fdba3.chunk.js"
   },
   {

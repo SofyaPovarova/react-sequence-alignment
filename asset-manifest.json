@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-sequence-alignment/static/css/main.4a5f322d.chunk.css",
+    "main.css": "/react-sequence-alignment/static/css/main.76670972.chunk.css",
     "main.js": "/react-sequence-alignment/static/js/main.f73fdba3.chunk.js",
     "main.js.map": "/react-sequence-alignment/static/js/main.f73fdba3.chunk.js.map",
     "runtime-main.js": "/react-sequence-alignment/static/js/runtime-main.c0b024d5.js",
@@ -8,16 +8,16 @@
     "static/js/2.6d748c9e.chunk.js": "/react-sequence-alignment/static/js/2.6d748c9e.chunk.js",
     "static/js/2.6d748c9e.chunk.js.map": "/react-sequence-alignment/static/js/2.6d748c9e.chunk.js.map",
     "index.html": "/react-sequence-alignment/index.html",
-    "precache-manifest.bcb4fa0081150e521748a5b2680ddc2d.js": "/react-sequence-alignment/precache-manifest.bcb4fa0081150e521748a5b2680ddc2d.js",
+    "precache-manifest.0333426f8a8dd6ae0cd24ecba80994ad.js": "/react-sequence-alignment/precache-manifest.0333426f8a8dd6ae0cd24ecba80994ad.js",
     "service-worker.js": "/react-sequence-alignment/service-worker.js",
-    "static/css/main.4a5f322d.chunk.css.map": "/react-sequence-alignment/static/css/main.4a5f322d.chunk.css.map",
+    "static/css/main.76670972.chunk.css.map": "/react-sequence-alignment/static/css/main.76670972.chunk.css.map",
     "static/js/2.6d748c9e.chunk.js.LICENSE.txt": "/react-sequence-alignment/static/js/2.6d748c9e.chunk.js.LICENSE.txt",
     "static/media/Alignment-app.css": "/react-sequence-alignment/static/media/dna.4616d411.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c0b024d5.js",
     "static/js/2.6d748c9e.chunk.js",
-    "static/css/main.4a5f322d.chunk.css",
+    "static/css/main.76670972.chunk.css",
     "static/js/main.f73fdba3.chunk.js"
   ]
 }
